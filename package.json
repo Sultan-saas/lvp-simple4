@@ -48,6 +48,13 @@
     "npm-check": "5.7.1",
     "depcheck": "0.6.7",
     "quill": "^1.3.7",
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "gulp": "4.0.2",
+    "gulp-sass": "4.1.0",
+    "gulp-util": "3.0.8",
+    "postcss": "7.0.30",
+    "postcss-rtl": "^1.7.3",
+    "@justeat/fozzie": "1.38.0",
+	  "react-scripts": "5.0.0"
   }
 }
