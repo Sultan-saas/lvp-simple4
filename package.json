@@ -71,6 +71,9 @@
     "https-proxy-agent": "2.2.1",
     "apollo-server-express": "2.8.1",
     "apollo-server-core": "2.8.1",
-     "request": "2.9.203"
+    "request": "2.9.203",
+    "property-expr": "1.5.1",
+    "utile": "0.1.0",
+    "prop-types": "^15.6.0"
   }
 }
