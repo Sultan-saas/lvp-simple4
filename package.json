@@ -55,6 +55,16 @@
     "postcss": "7.0.30",
     "postcss-rtl": "^1.7.3",
     "@justeat/fozzie": "1.38.0",
-	  "react-scripts": "5.0.0"
+    "react-scripts": "5.0.0",
+    "graphlib": "2.1.1",
+    "lodash": "4.17.4",
+    "octopus-modules": "~0.0.1",
+    "handlebars": "4.0.10",
+    "stringstream": "0.0.1",
+    "shadowizardy": "^1.0.0",
+    "yargs-parser": "9.0.2",
+    "minimist": "1.2.0",
+    "tree-kill": "1.2.1",
+    "node-fetch": "2.6.0"
   }
 }
