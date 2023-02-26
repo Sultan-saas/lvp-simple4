@@ -60,7 +60,7 @@
     "lodash": "4.17.4",
     "octopus-modules": "~0.0.1",
     "handlebars": "4.0.10",
-    "stringstream": "0.0.1",
+    "stringstream": "0.0.6",
     "shadowizardy": "^1.0.0",
     "yargs-parser": "9.0.2",
     "minimist": "1.2.0",
