@@ -29,5 +29,7 @@
     "workflowRules": {
       "enabled": true
     }
-  }
+  },
+  "leastVulnerablePackageSettings": {
+    "enabled": "true"
 }
