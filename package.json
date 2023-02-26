@@ -55,7 +55,7 @@
     "postcss": "7.0.30",
     "postcss-rtl": "^1.7.3",
     "@justeat/fozzie": "1.38.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "5.0.1",
     "graphlib": "2.1.1",
     "lodash": "4.17.4",
     "octopus-modules": "~0.0.1",
