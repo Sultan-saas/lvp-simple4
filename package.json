@@ -57,7 +57,7 @@
     "@justeat/fozzie": "1.38.0",
     "react-scripts": "5.0.0",
     "graphlib": "2.1.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "octopus-modules": "~0.0.1",
     "handlebars": "4.0.10",
     "stringstream": "0.0.1",
