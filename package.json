@@ -59,7 +59,7 @@
     "graphlib": "2.1.1",
     "lodash": "4.17.4",
     "octopus-modules": "~0.0.1",
-    "handlebars": "4.0.10",
+    "handlebars": "4.7.4",
     "stringstream": "0.0.1",
     "shadowizardy": "^1.0.0",
     "yargs-parser": "9.0.2",
